@@ -1,5 +1,7 @@
 # OpenTerrain: Terrain Generation using PerlinNoise
 
+[Video](./docs/video.mp4)
+
 ## Motivation
 
 - Always wanted to simulate procedural generation and perlin noise
