@@ -1,6 +1,6 @@
 # OpenTerrain: Terrain Generation using PerlinNoise
 
-<video src="./docs/video.mp4"></video>
+https://github.com/limeal/open-terrain/assets/71699038/1f7b1e49-c190-44a3-a2ec-e5bb84569b12
 
 ## Motivation
 
