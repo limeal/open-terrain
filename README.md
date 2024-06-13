@@ -1,6 +1,6 @@
 # OpenTerrain: Terrain Generation using PerlinNoise
 
-[Video](./docs/video.mp4)
+<video src="./docs/video.mp4"></video>
 
 ## Motivation
 
